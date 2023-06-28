@@ -11,3 +11,4 @@
 * Antonio Mileysson França Bragança 
 * Vinicius Costa Lazzeri da Silva
 * Herick Simon Nunes Bandeira
+* Ronildo Silva
